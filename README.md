@@ -1,4 +1,4 @@
-**🚀 Welcome to Tesla React Website Clone! 🚗**
+# **🚀 Welcome to Tesla React Website Clone! 🚗**
 
 This project is a homage to the cutting-edge design and innovation of Tesla, recreated with the power of ReactJS. Buckle up and experience the thrill of exploring Tesla's sleek website, all within the comfort of your browser. Note :- Created just for learning.
 
